@@ -1,0 +1,29 @@
+
+img{
+border-width: 4px 
+}
+
+h3 {
+color: yellow;
+font-family: verdana;
+font-size: 28px;
+}
+
+.red {
+color: red;
+font-size: 28px;
+}
+
+h5{
+color: blue;
+font-size: 28px;
+}
+
+p{
+font-family: verdana
+font-size: 18px;
+}
+
+body{
+	background-color: lightblue;
+}
